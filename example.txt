@@ -1,0 +1,21 @@
+Install GIT BASH for performing git commands
+Here are some git commands I’ve Perfomed
+1. Initialize a Git repository:
+git init
+2. Clone a repository:
+Git clone https://github.com/Rudhra05/devOps-exp.git
+3. To display the state of the working directory and the staging area.
+git status
+4. To add a file
+git add &lt;filename&gt;
+5. To create a snapshot of the staged changes along a timeline of a Git projects history
+git commit –m &quot;commit message&quot;
+6. To create, list, rename, and delete branches
+git branch -M main
+7. To set up a connection to a remote repository
+git remote add origin
+8. To push your local changes to your online repository
+git push -u origin main
+9. To Git fetches the latest changes from the remote master branch and merges them into your
+local branch.
+git pull origin
